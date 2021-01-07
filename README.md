@@ -22,4 +22,5 @@
 # [PROJECT 3 : Salary Prediction System : Project Overview](https://github.com/akashsharma077/salary-prediction-system)
 * In this project we will build a salary prediction system using Machine Learning.
 * The language we will use is Python.
+* The python libraries used are -numpy ,pandas ,matplotlib.
 * The Machine Learning algorithm we will apply is Linear Regression.
