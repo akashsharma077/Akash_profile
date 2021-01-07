@@ -22,7 +22,11 @@
 # [PROJECT 2 : Exploratory Data Analysis : Project Overview](https://github.com/akashsharma077/Exploratory-Data-Analysis)
 * In this project we will perform exploratory data analysis on haberman’s data set which is available on kaggle.
 * We will use python for data analysis here.
-* The data set contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago’s Billings Hospital on the survival of patients who had undergone   surgery for breast cancer.
+* The data set contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago’s Billings Hospital on the survival of patients who had           undergone   surgery for breast cancer.
+
+  ![](/images/download(2).png)
+
+
 
 
 # [PROJECT 3 : Salary Prediction System : Project Overview](https://github.com/akashsharma077/salary-prediction-system)
@@ -30,3 +34,6 @@
 * The language we will use is Python.
 * The python libraries used are -numpy ,pandas ,matplotlib.
 * The Machine Learning algorithm we will apply is Linear Regression.
+
+
+  ![](/images/Figure_1.png)
