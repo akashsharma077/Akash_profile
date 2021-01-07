@@ -14,8 +14,7 @@
   Number of rows in Train.csv = 404,290
   
   ![](/images/download%20(1).png)
-  
-  ![](/images/download.png)
+ 
   
   
 
