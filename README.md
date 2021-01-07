@@ -1,6 +1,6 @@
 # Akash_profile
 
-# PROJECT 1 :Quora Quetion Pair Similarity problem Overview
+# [PROJECT 1 :Quora Quetion Pair Similarity problem Overview](https://github.com/akashsharma077/Quora-Question-Pair-similarity)
 * Identify which questions asked on Quora are duplicates of questions that have already been asked.
 * This could be useful to instantly provide answers to questions that have already been answered.
 * Here tasked with predicting whether a pair of questions are duplicates or not.
