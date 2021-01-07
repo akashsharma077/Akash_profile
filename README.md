@@ -13,6 +13,10 @@
   Number of rows in Train.csv = 404,290
   
   ![](/images/download%20(1).png)
+  
+  ![](/images/download.png)
+  
+  
 
 
 # [PROJECT 2 : Exploratory Data Analysis : Project Overview](https://github.com/akashsharma077/Exploratory-Data-Analysis)
